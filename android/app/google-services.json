@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657411578870",
+    "project_id": "almighty-pet",
+    "storage_bucket": "almighty-pet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657411578870:android:c13d56645c57a6437145d7",
+        "android_client_info": {
+          "package_name": "com.example.almighty_pet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657411578870-s6277ldmu7a2874nl8bupilbg7vgorqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCJmVJlw7KE_tIVig3ulaEr9N_4SoH_2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657411578870-s6277ldmu7a2874nl8bupilbg7vgorqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

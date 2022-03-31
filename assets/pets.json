@@ -1,0 +1,46 @@
+[
+  {
+    "id": "p1",
+    "name": "Bruno",
+    "description": "This is my dog Bruno",
+    "age": 1,
+    "category": "dog",
+    "breed": "Labrador",
+    "address": "Kumanovo MKD",
+    "imageUrl": "images/labrador.jpg",
+    "gender": "male"
+  },
+  {
+    "id": "p2",
+    "name": "Nezuko",
+    "description": "Nezuko is a perfect dog",
+    "age": 2,
+    "category": "dog",
+    "breed": "Akita Inu",
+    "address": "Skopje MKD",
+    "imageUrl": "images/akita.jpg",
+    "gender": "female"
+  },
+  {
+    "id": "p3",
+    "name": "Giorgo",
+    "description": "Giorgo,is a perfect dog",
+    "age": 4,
+    "category": "dog",
+    "breed": "Pug",
+    "address": "Bitola MKD",
+    "imageUrl": "images/pug.jpg",
+    "gender": "male"
+  },
+  {
+    "id": "p4",
+    "name": "Lana",
+    "description": "Lana,is a perfect dog",
+    "age": 3,
+    "category": "dog",
+    "breed": "Maltese",
+    "address": "Bitola MKD",
+    "imageUrl": "images/maltezer.jpg",
+    "gender": "female"
+  }
+]
